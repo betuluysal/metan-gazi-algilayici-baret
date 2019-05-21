@@ -7,7 +7,7 @@
 #define led_b 7
 //Sensörün çalismasi için gerekli ön isitma süresini 5sn olarak belirliyoruz
 #define preheat_time 5000
-//Alarmin çalmasi için gerekli esik degerini 300 olarak belirliyoruz.
+//Alarmin çalmasi için gerekli esik degerini 450 olarak belirliyoruz.
 #define threshold 450
 
 void setup()
